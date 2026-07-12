@@ -1,2 +1,2 @@
 First authenticate using cta-data tool in the terminal: run cta-data start-agent.
-Run download_data_DC1.ipynb to download the required data for the DC1 scrpts.
+Run DC_download_data.ipynb to download the required data for the DC scrpts.
