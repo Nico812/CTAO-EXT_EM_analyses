@@ -1,2 +1,4 @@
 .nfs*
 *.fits
+old_scripts
+LST_counts.npz
